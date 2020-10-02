@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ball
+comment1.params=applet_
+comment1.target=Ball(processing.core.PApplet)
+comment2.params=
+comment2.target=void\ display()
+comment3.params=
+comment3.target=void\ move()
+comment4.params=bar
+comment4.target=void\ checkCollision(Paddle)
+comment5.params=
+comment5.target=void\ hitCount()
+numComments=6
